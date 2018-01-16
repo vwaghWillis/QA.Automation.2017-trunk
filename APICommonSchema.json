@@ -1,0 +1,16 @@
+{
+  "definitions": {
+        "nonEmptyString": {
+		"title":"Verify Non-Empty string",
+            "type": "string",
+            "minLength": 1
+        },
+
+		"typeInteger":{
+		"title":"Verify Integer",
+            "type": "integer"
+           
+		}
+		}
+		}
+    
